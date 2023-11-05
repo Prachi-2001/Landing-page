@@ -14,7 +14,7 @@ When designing our landing page using Next.js, I made a series of important desi
 
 - **Design Style**: Our design style is centered around a minimalistic and user-friendly approach. Converted given figma file into a reusable componenets without hard coding anything.
 
-- **Performance Optimization**: I developed this responsive landing page by storing data in data.js file to don't hardcode it by following best practices. Makde resuable components with a modular approach of designing layout.
+- **Performance Optimization**: I developed this responsive landing page by storing data in data.js file to not hardcode it by following best practices. Made resuable components with a modular approach of designing layout.
 
 - **User Experience (UX)**: User experience is a top priority. We conducted usability tests, and based on user feedback, we integrated features to enhance navigation, minimize friction, and improve overall satisfaction.
 
@@ -50,19 +50,3 @@ npm run dev
 
 This command will launch a local development server, allowing you to preview and work on the landing page.
 
-## Contributing
-
-We welcome contributions from the community. To contribute to the project, follow these guidelines:
-
-1. Check the [Issues](https://github.com/yourusername/your-landing-page/issues) for any open tasks or create a new issue to discuss your proposed changes.
-2. Fork the repository and create a branch for your work.
-3. Make your changes and ensure that the project passes all tests.
-4. Submit a pull request (PR) with a detailed description of your changes.
-
-We appreciate your contributions and will review your PR promptly.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You can find the full text of the license in the `LICENSE` file in the project's root directory.
-
-Thank you for your interest in our Next.js landing page project. We hope this README.md provides valuable insights and helps you get started with the project.
