@@ -14,9 +14,9 @@ When designing our landing page using Next.js, I made a series of important desi
 
 - **Design Style**: Our design style is centered around a minimalistic and user-friendly approach. Converted given figma file into a reusable componenets without hard coding anything.
 
-- **Performance Optimization**: I developed this responsive landing page by storing data in data.js file to not hardcode it by following best practices. Made resuable components with a modular approach of designing layout.
+- **Performance Optimization**: I developed this responsive landing page by using stored data in data.js file to not hardcode it for following best practices. Made resuable components with a modular approach of designing layout.
 
-- **User Experience (UX)**: User experience is a top priority. We conducted usability tests, and based on user feedback, we integrated features to enhance navigation, minimize friction, and improve overall satisfaction.
+- **User Experience (UX)**: User experience is a top priority. I conducted usability tests, and based on user feedback, we integrated features to enhance navigation, minimize friction, and improve overall satisfaction.
 
 ## Installation
 
