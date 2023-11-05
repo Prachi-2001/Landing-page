@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const HeroSection: React.FC = () => {
   return (
-    <div className="bg-white bg-opacity-50 self-stretch flex pt-0 pb-0 flex-col mt-1 px-5 max-md:max-w-full">
+    <div className="bg-white bg-opacity-50 self-stretch flex pt-0 pb-0 flex-col mt-1 max-md:max-w-full">
       <div className="flex-col justify-center items-center overflow-hidden self-center relative z-[1] flex min-h-[1021px] w-full max-w-[1465px] pt-20 pb-[604px] px-5 max-md:max-w-full">
         <Image
           loading="lazy"

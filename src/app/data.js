@@ -164,3 +164,28 @@ export const successStories = [
   },
 ];
 
+// footerLinksData.js
+export const footerLinksData = [
+  {
+    title: "Our links",
+    links: ["Home", "About us", "Integrations", "Team", "Blog"],
+  },
+  {
+    title: "Our Services",
+    links: [
+      {
+        text: "Infrastructure provisioning",
+        url: "https://www.hashicorp.com/solutions/infrastructure-provisioning",
+      },
+      "Network infrastructure automation",
+      "Cost optimization",
+      "Cloud migration",
+      "Kubernetes at scale",
+    ],
+  },
+  {
+    title: "Others links",
+    links: ["FAQ", "Careers", "Privacy Policy", "Terms & Conditions", "Support"],
+  },
+];
+

@@ -17,7 +17,7 @@ const SuccessStoryCarousel: React.FC = () => {
   return (
     <>
       <div className="backdrop-blur-[20px] self-stretch flex w-full flex-col pt-32 pb-12 px-5 max-md:max-w-full">
-        <div className="text-slate-700 text-center text-5xl font-semibold leading-[61.6px] capitalize self-center max-w-[562px] max-md:max-w-full">
+        <div className="text-slate-700 text-center text-5xl font-semibold leading-[61.6px] capitalize self-center max-md:max-w-full">
           See our success stories
         </div>
         <div className="self-center w-full max-w-[1320px] mt-24 max-md:max-w-full max-md:mt-10">
@@ -45,7 +45,7 @@ const SuccessStoryCarousel: React.FC = () => {
                     className="aspect-[0.67] object-cover object-center w-full rounded-l-2xl fill-blue-700 overflow-hidden grow"
                   />
                 </div>
-                <div className="flex flex-col items-stretch w-[80%] rounded-r-[15px] shadow-xl max-md:w-full max-md:ml-0">
+                <div className="flex flex-col items-stretch w-[80%] rounded-r-[15px] shadow-xl   max-md:w-full max-md:ml-0">
                   <div className="bg-white bg-opacity-10 flex-grow flex-col w-full mx-auto pb-5 px-5 rounded-none max-md:max-w-full">
                     <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
                       <div className="flex items-stretch justify-between w-full max-md:w-full max-md:ml-0">
