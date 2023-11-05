@@ -8,29 +8,15 @@ Our landing page project is built on Next.js, a popular React framework, and ser
 
 ## Design Decisions
 
-When designing our landing page using Next.js, we made a series of important design decisions that influenced the project's overall direction. Here's a summary of our design choices:
+When designing our landing page using Next.js, I made a series of important design decisions that influenced the project's overall direction. Here's a summary of our design choices:
 
-- **Tech Stack**: We chose Next.js as our framework of choice, leveraging its server-side rendering capabilities to enhance performance and SEO. Additionally, we utilized React for building the user interface, and we may have integrated other libraries and tools as needed.
+- **Tech Stack**: Next.js, typescript, Tailwind CSS.
 
-- **Design Style**: Our design style is centered around a minimalistic and user-friendly approach. We selected a color scheme that aligns with our branding, carefully curated typography, and employed responsive design techniques to ensure an optimal user experience on various devices.
+- **Design Style**: Our design style is centered around a minimalistic and user-friendly approach. Converted given figma file into a reusable componenets without hard coding anything.
 
-- **Responsive Design**: To make our landing page accessible and visually pleasing across different devices and screen sizes, we implemented responsive design practices. This ensures that the content adapts seamlessly to both large desktop screens and mobile devices.
-
-- **Performance Optimization**: We invested time in optimizing performance. Techniques like code splitting, lazy loading of resources, and image compression were employed to reduce load times and improve user experience.
+- **Performance Optimization**: I developed this responsive landing page by storing data in data.js file to don't hardcode it by following best practices. Makde resuable components with a modular approach of designing layout.
 
 - **User Experience (UX)**: User experience is a top priority. We conducted usability tests, and based on user feedback, we integrated features to enhance navigation, minimize friction, and improve overall satisfaction.
-
-## Challenges Faced
-
-Throughout the development of our landing page, we encountered several challenges, both technical and non-technical. These challenges included:
-
-- **Cross-browser Compatibility**: Ensuring that the landing page works consistently across various web browsers can be a significant challenge. We addressed this issue through extensive testing and using CSS techniques that are widely supported.
-
-- **SEO Optimization**: Maximizing the landing page's visibility in search engine results required us to implement SEO best practices, such as meta tags, structured data, and content optimization.
-
-- **Performance Tuning**: Achieving fast load times and smooth interactions was a constant challenge. Performance monitoring, profiling, and optimization were critical to overcome this challenge.
-
-- **Design Consistency**: Maintaining design consistency across the landing page, especially as the project scaled, required meticulous attention to detail and a well-defined design system.
 
 ## Installation
 
@@ -39,13 +25,13 @@ To set up the project locally and start working on it, follow these steps:
 1. **Clone the Repository**: Begin by cloning the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/creator79/xero-codee.git
+   git clone https://github.com/Prachi-2001/Landing-page.git
    ```
 
 2. **Navigate to the Project Directory**: Change your working directory to the project's root folder:
 
    ```bash
-   cd xero-codee
+   cd Landing-page
    ```
 
 3. **Install Dependencies**: Install the required dependencies by running:
